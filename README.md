@@ -2,7 +2,7 @@
 ### Tech stack:- HTML, CSS
 
 Title:- Geekstag (Content Website)
-![Alt text](https://github.com/deepaks37/NS-mini-project/blob/main/img/ns-coder.svg)
+![Alt text](https://github.com/deepaks37/NS-mini-project/blob/main/img/geekstagheader.png)
 
 
 
